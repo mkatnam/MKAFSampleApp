@@ -261,7 +261,7 @@
     "cancelicon": "",
     "category": "app",
     "chat": "false",
-    "cloud_account_guid": "189ecf7d-7ba1-4135-a7a7-9ba94e338997",
+    "cloud_account_guid": "4f3cb165-da14-4aa4-8d93-3fb6a5f6a994",
     "cloud_env_GUID": "428695f9-5af5-4e7d-a836-a37565d88d9e",
     "codeGeneration": "false",
     "contacts": "false",
@@ -390,6 +390,14 @@
     "keyStoreFilePathandwear": "",
     "keyStorePassword": "",
     "keychainPassword": "",
+    "kfAppInfo": {
+        "4f3cb165-da14-4aa4-8d93-3fb6a5f6a994": {
+            "appName": "MKAFSampleApp",
+            "baseId": "9b809623-137e-4056-bdbf-aee9f7d4fa98",
+            "id": "9b809623-137e-4056-bdbf-aee9f7d4fa98",
+            "version": "1.0"
+        }
+    },
     "konyVizVersion": "9.2.46",
     "lastmodifiedtime": "1664205065008",
     "location": "false",
