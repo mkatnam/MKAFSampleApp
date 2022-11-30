@@ -346,7 +346,7 @@
     "internetClient": "false",
     "internetClientServer": "false",
     "ioscheckboxcorrection": "true",
-    "iosdeployment_targetversionkey": "9.0",
+    "iosdeployment_targetversionkey": "10.0",
     "iospopuptransitioncorrection": "true",
     "iosrespectimagesizecorrection": "true",
     "iostextboxpaddingcorrection": "true",
